@@ -12,6 +12,6 @@ def somme(a,b):
     return a + b
 
 def test_somme():
-    a = 10
+    a = 15
     b = 15
-    assert somme(a,b) == 25
+    assert somme(a,b) == 30
