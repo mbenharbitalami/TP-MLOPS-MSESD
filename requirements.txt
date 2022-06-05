@@ -10,4 +10,4 @@ evidently
 gunicorn
 requests
 bs4
-zipfile
+zipfile36
