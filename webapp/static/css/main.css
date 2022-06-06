@@ -1,3 +1,7 @@
 body {
-    background-color: #eff8ff;
+    background-color: #ffffff;
+}
+
+.form-control {
+    border-radius: 31px;
 }
