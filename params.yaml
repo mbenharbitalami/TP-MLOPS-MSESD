@@ -26,8 +26,8 @@ knn:
 
 mlflow_global_config:
   artifacts_dir: artifacts
-  experiment_name: model_vertebral_column
-  registered_model_name: vertebral_column_model
+  experiment_name: knn_model
+  registered_model_name: knn_model
   remote_server_uri: http://localhost:5000
 
 mlflow_random_forest_config:
